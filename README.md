@@ -51,48 +51,30 @@ media pipe mp
 
 
 # Run
-python 
+python focus_detect.py
 
-### Project Documentation
-For Software:
+
+
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+An interface to choose between both games to start a Pomodoro cycle 
+2 redirects to rock paper scissors 
+3 redirects to cthe ar race game
+<img width="1817" height="872" alt="Screenshot 2025-08-09 081937" src="https://github.com/user-attachments/assets/de2c458b-a849-4073-a013-7b5530468682" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Rock paper scissors demonstrated
+<img width="955" height="760" alt="Screenshot 2025-08-09 074443" src="https://github.com/user-attachments/assets/6bad915b-7e44-4607-8d12-06fda28f2342" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+race car game demonstrated
+<img width="957" height="628" alt="Screenshot 2025-08-09 074333" src="https://github.com/user-attachments/assets/dbd5f60d-d81d-4790-a3a4-d866aae25409" />
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
