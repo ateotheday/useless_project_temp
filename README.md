@@ -75,14 +75,13 @@ race car game demonstrated
 
 ### Project Demo
 # Video
+https://cs196.clideo.com/p/FpfCGOHicCDqRAkJO0CyBg/8890e0a993227d4ab8297fc46038f33f/screen-recording-2025-08-09-074251_m7RJulgd.mp4
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Aathira R N]: Calculator, Weather prediction,reverse clock
+- [Maria Biju]:-rock paper scissors and car racing using hand gesture and OpenCV
+  
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
