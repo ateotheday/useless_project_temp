@@ -1,47 +1,57 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# idle cycle 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Coder Cookies
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Aathira R N - College of Engineering Munnar
+- Member 2: Maria Biju - College of Engineering Munnar
+
 
 ### Project Description
-[2-3 lines about what your project does]
+Idle cycle is the ultimate fusion of doing nothing productive in the most creative way possible. It is a calender that does not care about your deadlines and games that serves no real purpose except giving you a break from reality.
+Feautures include:
+-pointless calender
+-breaktime game
+-zero productivity guarantee
+-mood booster
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+There is no app that lets you check a calender and immediately distracts yourself with a completely pointeless game in the same place.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+They build an app that combines a useless calender with an equally useless game, so you can waste time efficiently.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Language:python,html,css,JavaScript
+libraries/frameworks: Tkinter (for UI)
+Media pipe: for hand tracking in the game 
+OpenCV-Python (for camera input in the game)
+IDE:VsCode
+OS Compatibility:Windows
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Processor:Intel core i5
+RAM:8gb
+webcam: For media pipe game to work
+Display: higher solution screen
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+pip install opencv-python
+media pipe mp
+
 
 # Run
-[commands]
+python 
 
 ### Project Documentation
 For Software:
